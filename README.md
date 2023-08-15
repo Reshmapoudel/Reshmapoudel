@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Reshma</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<img align="center" alt="Coding" width="700" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
+<img align="center" alt="Coding" width="1150" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshmapoudel&label=Profile%20views&color=0e75b6&style=flat" alt="reshmapoudel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reshmapoudel" alt="reshmapoudel" /></a> </p>
